@@ -1,0 +1,99 @@
+div {
+    border: 3px solid black;  
+    margin: 10px;
+    padding: 15px;
+}
+
+
+img {
+    width: 200px;   
+}
+
+.navBar {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    border: solid lime 1px ;
+    
+    
+}
+
+p {
+    color: maroon;
+    
+}
+
+.Story of lannan {
+    font-size: 15px;
+}
+
+.Start  {
+    display: flex;
+    justify-content: center;
+    border: solid orange 10px;
+    
+}
+
+.aboutMe {
+    margin: 20px;
+    width: 300px;
+    
+    
+}
+
+.posts {
+    margin: 20px;
+    
+    width: 500px;
+    text-align: center;
+    float: right;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+
+.friendsList {
+    margin: 20px;
+    float: left;
+    width: 400px;
+    top: 30%;
+    right: 10%;
+    
+}
+
+.Item {
+    margin: 10px;
+    border: solid black 1px;
+    padding: 10px;
+
+}
+
+.box one {
+    display: flex;
+    justify-content: flex-start;
+}
+   
+.one-purple {
+    background-color: tomato;
+    color: white;
+}
+.two-purple {
+    background-color: MediumSeaGreen;
+    color: white;
+}
+.three-purple {
+    background-color: lightblue;
+    color: white;
+}
+.fourth-purple {
+    background-color: Violet;
+    color: white;
+}
+.Links {
+    display: flex;
+    justify-content: center;
+}
+
+      
+    
